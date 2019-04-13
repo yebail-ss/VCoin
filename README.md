@@ -39,6 +39,8 @@ npm i
 
 ![](https://pp.userapi.com/c847020/v847020485/1d72be/ktfWqwnMjEY.jpg)
 
+I have fork the responsible to practice.
+
 * `-tforce`         - использовать токен принудительно
 * `-u [URL]`        - задает ссылку
 * `-t [TOKEN]`      - задает токен
